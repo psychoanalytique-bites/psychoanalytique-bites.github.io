@@ -1,0 +1,29 @@
+---
+title: "Papers & Presentations"
+output:
+  tufte::tufte_html : default
+---
+
+# _Early Presentations_ #
+
+## <u>Jouissance - A Clinical Case Study</u> ##
+### Jade, 03.01.2022 ###
+
+This was the first presentation of the group, where Jade tried to approach the difficult concept of jouissance by the help of a clinical example. The recordings aren't available but the slides are linked below:
+
+[Slides](papers/early/jade-jouissance.pptx)
+
+## <u>Transference Focused Psychotherapy : An Introduction</u> ##
+### Sean, 07.01.2022 ###
+
+Sean summarised the findings of Kernberg, et.al and their treatment of patients with Borderline Personality Disorder through a revised object-relations approach. The main paper that was of reference in this presentation was: 
+
+Otto F. Kernberg, Frank E. Yeomans, John F. Clarkin & Kenneth N. Levy. (2008) *Transference focused psychotherapy: Overview and update*, The International Journal of Psychoanalysis, 89:3, 601-620, DOI: 10.1111/j.1745-8315.2008.00046.x
+
+## <u>Beyond Thinking, Speaking and Dreaming : The Analytic Process of Psychoanalysis</u> ##
+### Divya Ranjan, 17.01.2022 ###
+
+This was first of three presentation in a series by Divya on some of the "foundations" in psychoanalysis. This was devoted to the subject of *analytic process* and introduces other things from scratch. The latter half of the presentation uses a case study from Ogden's work.
+
+[Slides](papers/early/divya-analytic-process.pdf)
+
