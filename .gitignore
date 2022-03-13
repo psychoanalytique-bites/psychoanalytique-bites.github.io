@@ -4,4 +4,4 @@ packages/
 *.org~
 *.tex~
 *.el
-*.rmd~
+*.rmd
