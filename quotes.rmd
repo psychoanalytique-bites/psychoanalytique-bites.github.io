@@ -1,0 +1,14 @@
+---
+title: PSYCHOANALYTIC QUOTES
+output:
+  tufte::tufte_html : default
+---
+
+Here is an archive of quotes from various sources of pschoanalysis. Feel free to suggest any additions!
+
+
+> Pychoanalysis in this version can't help people, because there is nothing wrong with anybody; it can only engage them in useful and interesting conversations. So one could then say that as a form of treatment psychoanalysis is a conversation that enables people to understand what stops them from having the kinds of conversation they want, and how they come to believe that these particular conversations are worth wanting. Rather than: psychoanalysis is a conversation that helps people get back on track. Psychoanalysis, in other words, would be a curiosity profession instead of a helping profession. It is of course one of the tacit assumptions of psychoanalysis that there can be no good life, and no curiosity, without talking.
+> `r tufte::quote_footer('Adam Phillips, *On Kissing, Tickling and Being Bored*')`
+
+> What does analysis uncover--if it isn't the fundamental, radical discordance of forms of conduct essential to man in relation to everything whcih he experiences? The dimension discovered by analysis is the opposite of anything which progresses through adaptation, through approximation, through being perfected....In man, it is the wrong form which prevails. In so far as a task is not completed the subject returns to it. The more abject the failure, the better the subject remembers it. 
+> `r tufte::quote_footer("Jacques Lacan, Seminar II : The Ego in Freud's Theory and in the Technique of Psychoanalysis")`
