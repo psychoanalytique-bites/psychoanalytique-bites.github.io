@@ -1,8 +1,0 @@
-packages/
-./css/tufte-css/
-*.sh
-*.html~
-*.org~
-*.tex~
-*.el
-*.xsl~
