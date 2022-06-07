@@ -402,6 +402,9 @@ PDF is compiled synchronously alongwith the above lectures, and gets
 updated as the TeX file changes.</p>
 <p><a href="notes/notes.pdf">Complete Lecture Notes</a></p>
 </div>
+
+<p><label for="mn-pankjeff" class="margin-toggle">&#8853;</label><input type="checkbox" id="mn-pankjeff" class="margin-toggle"/><span class="marginnote"><img src="img/freud-pankjeff.jpg" alt="Prescription to Therese Pankejeff"/>Prescription, written by Sigmund Freud for Therese Pankejeff, wife of Sergei Pankejeff. Novemember 22, 1919</span></p>
+
 <div id="books" class="section level2">
 <h2><strong>Books</strong></h2>
 <p>The course refers to a <em>lot</em> of books, and its impossible to
@@ -430,12 +433,15 @@ openly available in Public Domain at <a href="https://freudcompleteworks.com">ht
 This version is very much desirable for formats other than PDF, such as
 DjVu, EPUB, MOBI and Kindle AZW3.</p>
 <p>There are <em>many</em> publications that republish the major
-books/monographs of Frued like, <a href="https://www.amazon.com/Interpretation-Dreams-Complete-Definitive-Text/dp/0465019773/ref=sr_1_1?crid=OSKWHTHGMNYG&amp;keywords=interpretation+of+dreams&amp;qid=1654560468&amp;sprefix=interpretation+of+dream%2Caps%2C320&amp;sr=8-1"><em>The
+books/monographs of Freud like, <a href="https://www.amazon.com/Interpretation-Dreams-Complete-Definitive-Text/dp/0465019773/ref=sr_1_1?crid=OSKWHTHGMNYG&amp;keywords=interpretation+of+dreams&amp;qid=1654560468&amp;sprefix=interpretation+of+dream%2Caps%2C320&amp;sr=8-1"><em>The
 Interpretation of Dreams</em></a>, <a href="https://www.amazon.com/Psychopathology-Everyday-Life-Sigmund-Freud/dp/1420924915/ref=sr_1_2?crid=3A5BIQDCF1CAR&amp;keywords=psychopathology+of+everyday+life&amp;qid=1654560509&amp;sprefix=psychopathology+of+ever%2Caps%2C295&amp;sr=8-2"><em>Psychopathology
 of Everyday Life</em></a> etc. These come much cheaper than the original
 Standard Edition, and can be preferrable. If you are using one of these,
 just make sure what translation it is, and compare it with the above
 ones to see how the paging differs.</p>
+
+<p><label for="mn-jung" class="margin-toggle">&#8853;</label><input type="checkbox" id="mn-jung" class="margin-toggle"/><span class="marginnote"><img src="img/freud-jung.jpg" alt="Letter from Freud to Jung"/>Letter from Freud to Carl Jung expressing pleasure that Jung's research supports his work. April 11, 1906.</span></p>
+
 <p><strong>Freud’s Correspondences</strong>:</p>
 <p>The course uses quite extensively as much of historical context as
 available from Freud’s correspondences in letters with some of his
@@ -470,5 +476,26 @@ Books</a></p>
   })();
 </script>
 
+<button
+		class="light-mode-button"
+		aria-label="Toggle Light Mode"
+		onclick="toggle_light_mode()">
+	<span></span>
+	<span></span>
+</button>
+</div>
+
+<script>
+	function toggle_light_mode() {
+			var app = document.getElementsByTagName("BODY")[0];
+			if (localStorage.lightMode == "dark") {
+					localStorage.lightMode = "light";
+					app.setAttribute("light-mode", "light");
+				} else {
+						localStorage.lightMode = "dark";
+						app.setAttribute("light-mode", "dark");
+					}
+		}
+</script>
 </body>
 </html>
